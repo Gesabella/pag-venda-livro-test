@@ -57,7 +57,7 @@ header span {
     align-items: center;
 }
 
-.box-txt h1 {
+.box-txt h3 {
     color: rgb(203, 201, 201);
     letter-spacing: 5px;
     text-transform: uppercase;
@@ -163,6 +163,12 @@ section.paralaximg:nth-of-type(2) {
     margin-left: 10%;
     flex-flow: row;
     margin-bottom: 30px;
+}
+
+section h3 {
+    color: rgb(203, 201, 201);
+    letter-spacing: 5px;
+    text-transform: uppercase;
 }
 
 .clientes {
