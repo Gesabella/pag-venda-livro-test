@@ -21,3 +21,8 @@ O projeto inclui efeitos visuais elemento interativo.
 - **CSS3**
 - **Google Fonts**
 
+---
+
+## 🛠️ Quer visualizar? link abaixo:
+[![Link](https://img.shields.io/badge/Visualizar_Projeto-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://gesabella.github.io/pag-venda-livro-test/)
+
